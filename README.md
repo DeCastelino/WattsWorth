@@ -1,7 +1,14 @@
 # Watts Worth
 
-## Getting Started
+## Description
 
-1. [OPTIONAL] Login to the website. You can skip this step if you want to browse as a guest.
+A utility bills comparison website that lets you -
 
-![image](https://github.com/s3490593/tribalGoodBillMVP/assets/87592603/37b8fb5b-b5cd-46b6-95e1-89ee3c4ad9e3)
+-   Compare bills with the average household in your suburb
+-   Provide detailed analysis on your utility usage
+-   Learns from your household habits and suggests cost cutting.
+-   Tailored suggestion based on your previos bills. [More the bills, the better!]
+
+## Data Privacy
+
+All data is stored in cloud anonymously and only referred to when needed. All the sesitive information like names, phone numbers and addresses is blacked out before running machine learning on it.
